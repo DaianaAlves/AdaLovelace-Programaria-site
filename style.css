@@ -1,0 +1,136 @@
+body{
+      text-align: center;
+      font-family:verdana, sans-serif;
+      background-color:#751132;
+      color:white;
+  
+}
+
+
+h1{
+      color:#e4795b;
+      background-color: white;
+      font-size:45px;
+      margin-top:auto;
+      text-align:auto;
+      background-size:cover;
+      height:30px;
+      border-color:10px;
+      border-radius:10px;
+        
+     
+}
+
+h2{
+      color:#e4795b;
+      background-color: #751132;
+      font-size:25px;
+      margin-top:auto;
+      text-align: center
+      background-size:cover;
+      height:35px;
+      border-color:1px;
+      border-radius:7px;
+}
+
+section{
+      color: burlywood;
+      background-color: #943a49; 
+      background-size:cover;
+      border-radius:10;  
+      padding:80px;
+      max-width:1200px;
+      margin-left:auto;
+      margin-right:auto;
+      border: 3x solid white;
+      background-color:white;
+      padding: 40px;
+      border-radius:2px;
+  
+}
+
+
+h3{
+      color:#e4795b;
+      background-color: #751132;
+      font-size:25px;
+      margin-top:auto;
+      text-align: center
+      background-size:cover;
+      height:35px;
+      border-color:1px;
+      border-radius:7px;
+}
+
+
+h4{
+      color:#e4795b;
+      background-color: #751132;
+      font-size:25px;
+      margin-top:auto;
+      text-align: center
+      background-size:cover;
+      height:35px;
+      border-color:1px;
+      border-radius:7px ;
+}
+
+
+
+img{
+      width: 500px;
+      border-color:white;
+      border-radius:50%;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      border-image:1px;
+      border:5px solid white;
+}
+        
+
+ 
+ul{
+      color: burlywood;
+      background-color: #943a49; 
+      background-size:cover;
+      border-radius:10;  
+      padding:80px;
+      border: 5x solid white;
+      background-color:white;
+      padding: 10px;
+      border-radius:2px;  
+      list-style-type:none;       
+}
+
+a{
+   text-decoration:none;
+   color:#e4795b;
+   border-color: white;
+   font-size:20px;
+}
+
+.principal a{
+  color:#751132;
+  font-size: 18px;
+  text-decoration: underline;
+  font-weight: normal;
+  margin-left:50px;
+  margin-right:50px;
+  
+  
+}
+
+.principal li{
+  display:inline-block;
+  line-height:center;
+   
+}
+
+button{
+   background-color:#751132;
+   color:white;
+   border: 1px solid transparent;
+   padding: 2px 20px;
+   border-radius: 3px;
+}
